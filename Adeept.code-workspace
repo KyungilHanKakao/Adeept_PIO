@@ -1,0 +1,69 @@
+{
+	"folders": [
+		{
+			"name": "01_Onboard_LED",
+			"path": "./Adeept/01_Onboard_LED"
+		},
+		{
+			"name": "02_Motor",
+			"path": "./Adeept/02_Motor"
+		},
+		{
+			"name": "03_Buzzer",
+			"path": "./Adeept/03_Buzzer"
+		},
+		{
+			"name": "04_RGB",
+			"path": "./Adeept/04_RGB"
+		},
+		{
+			"name": "05_WS2812",
+			"path": "./Adeept/05_WS2812"
+		},
+		{
+			"name": "06_Ultrasonic",
+			"path": "./Adeept/06_Ultrasonic"
+		},
+		{
+			"name": "07_Tracking_Sensor",
+			"path": "./Adeept/07_Tracking_Sensor"
+		},
+		{
+			"name": "08_Battery_level",
+			"path": "./Adeept/08_Battery_level"
+		},
+		{
+			"name": "09_MPU6050",
+			"path": "./Adeept/09_MPU6050"
+		},
+		{
+			"name": "10_IR_Receiver",
+			"path": "./Adeept/10_IR_Receiver"
+		},
+		{
+			"name": "11_Car_Balance",
+			"path": "./Adeept/11_Car_Balance"
+		},
+		{
+			"name": "12_IR_Control_car",
+			"path": "./Adeept/12_IR_Control_car"
+		},
+		{
+			"name": "13_APP_Control_Car",
+			"path": "./Adeept/13_APP_Control_Car"
+		},
+		{
+			"name": "14_Line_Tracking_Car",
+			"path": "./Adeept/14_Line_Tracking_Car"
+		},
+		{
+			"name": "15_Ultrasonic_Car_Avoid_Obstacles",
+			"path": "./Adeept/15_Ultrasonic_Car_Avoid_Obstacles"
+		},
+		{
+			"name": "16_Follow_Car",
+			"path": "./Adeept/16_Follow_Car"
+		}
+	],
+	"settings": {}
+}
